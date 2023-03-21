@@ -1030,6 +1030,19 @@ body{
     color:#333;
     background-color:#fff
 }
+.mt{
+    margin-top: 150px;
+}
+.fw700{
+    font-weight: 700;
+}
+.fs50{
+    font-size: 52px;
+}
+.p1{
+    font-size: 17px;
+    font-weight: 500;
+}
 button,input,select,textarea{
     font-family:inherit;
     font-size:inherit;
